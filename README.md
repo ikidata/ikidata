@@ -22,14 +22,20 @@
 <div class="follow-linkedin">  
   <a href="https://www.linkedin.com/company/ikidata/" target="_blank">  
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Logo" style="width: 10px; vertical-align: middle;">  
-    Follow Ikidata on LinkedIn  
+     Follow Ikidata on LinkedIn  
   </a>  
 </div>  
   
 <div class="explore-website">  
   <a href="https://www.ikidata.fi" target="_blank">  
     <img src="https://github.com/ikidata/ikidata_public_pictures/blob/main/logos/Ikidata_aurora.png" alt="Ikidata Website Logo" style="width: 10px; vertical-align: middle;">  
-    Explore the solutions available on our website  
+     Explore our website  
+  </a>  
+</div>  
+
+<div class="gain-knowledge">  
+  <a href="https://www.ikidata.fi/knowledge" target="_blank">  
+    📚Gain new Databricks knowledge  
   </a>  
 </div>  
 
